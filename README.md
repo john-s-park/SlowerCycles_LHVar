@@ -1,9 +1,9 @@
-##Abstract
+## ABSTRACT
 
 Populations in nature are comprised of individual life histories, whose variation underpins ecological and evolutionary processes. Yet the forces of environmental selection that shape intrapopulation life-history variation are still not well understood, and efforts have largely focused on random (stochastic) fluctuations of the environment. However, a ubiquitous mode of environmental fluctuation in nature is cyclical, whose periodicities can change independently of stochasticity. Here we test theoretically-based hypotheses for whether shortened (‘Fast’) or lengthened (‘Slow’) environmental cycles should generate higher intrapopulation variation of life history phenotypes. We show, through a combination of agent-based modelling and a multi-generational laboratory selection experiment using the tidepool copepod Tigriopus californicus, that slower environmental cycles maintain higher levels of intrapopulation variation. Surprisingly, the effect of environmental periodicity on variation was much stronger than that of stochasticity. Thus, our results show that periodicity is an important facet of fluctuating environments for life-history variation.
 
 
-##File README
+## File Descriptions
 
 Two data files “EvolExp_xxxx_data.csv” contain life history trait measurements from Tigriopus californicus laboratory experiment. The two share the first four common columns: “Source_pop”, “Treatment”, “Treat_rep”, and “Ind_rep”.
 
